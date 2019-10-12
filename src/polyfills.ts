@@ -57,6 +57,8 @@
  */
 import 'zone.js/dist/zone';  // Included with Angular CLI.
 
+import 'web-animations-js';
+
 
 /***************************************************************************************************
  * APPLICATION IMPORTS
